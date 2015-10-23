@@ -32,3 +32,14 @@ docker build -t '[youname]/rockmongo'
 
 #### enjoy
 http://youdomain:80 in you browser
+
+
+#### BTW
+
+you also can pull in docker hub
+
+```
+
+docker pull shaobenbin/rockmongo
+
+```
